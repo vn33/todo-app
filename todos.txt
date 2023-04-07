@@ -1,7 +1,5 @@
-complete python make
-make coffeemaster python
 rnrnf
 complete python 
 ddn
 make coffeemaster python
-
+complete python ma

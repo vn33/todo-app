@@ -1,4 +1,3 @@
-rnrnf
 complete python 
 ddn
 make coffeemaster python
